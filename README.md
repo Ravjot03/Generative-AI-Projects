@@ -7,3 +7,6 @@ This project showcases an AI-Powered Text Generator built using Flask, the Googl
 
 
 ### 2. [Prompt Engineering Techniques](https://github.com/Ravjot03/Prompt-Engineering-Techniques)
+Prompt templates are predefined recipes for generating prompts for language models.
+LangChain provides tooling to create and work with prompt templates.
+LangChain strives to create model agnostic templates to make it easy to reuse existing templates across different language models.
