@@ -10,3 +10,7 @@ This project showcases an AI-Powered Text Generator built using Flask, the Googl
 Prompt templates are predefined recipes for generating prompts for language models.
 LangChain provides tooling to create and work with prompt templates.
 LangChain strives to create model agnostic templates to make it easy to reuse existing templates across different language models.
+
+
+### 3. [Hugging Face Models](https://github.com/Ravjot03/Hugging-Face-Models)
+This repository contains a collection of models and projects leveraging the powerful capabilities of Hugging Face's transformer library.
