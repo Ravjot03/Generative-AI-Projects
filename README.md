@@ -14,3 +14,5 @@ LangChain strives to create model agnostic templates to make it easy to reuse ex
 
 ### 3. [Hugging Face Models](https://github.com/Ravjot03/Hugging-Face-Models)
 This repository contains a collection of models and projects leveraging the powerful capabilities of Hugging Face's transformer library.
+
+### 4. [Querying PDF's with LangChain, FAISS and OpenAI]()
