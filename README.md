@@ -18,4 +18,4 @@ This repository contains a collection of models and projects leveraging the powe
 ### 4. [Querying PDF's with LangChain, FAISS and OpenAI](https://github.com/Ravjot03/Query-PDF-using-LangChain)
 In this project, An AI-powered system is built that intelligently queries and extracts answers from PDF documents. By leveraging tools like LangChain, FAISS, and OpenAI, we transformed raw text into searchable data, enabling the automatic retrieval of relevant information.
 
-### 5. [Audio to Text Analysis]()
+### 5. [Speech to Text Analysis]()
