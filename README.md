@@ -19,3 +19,4 @@ This repository contains a collection of models and projects leveraging the powe
 In this project, An AI-powered system is built that intelligently queries and extracts answers from PDF documents. By leveraging tools like LangChain, FAISS, and OpenAI, we transformed raw text into searchable data, enabling the automatic retrieval of relevant information.
 
 ### 5. [Speech to Text Analysis]()
+This repository contains a Jupyter notebook that demonstrates automatic speech recognition (ASR) using OpenAI's Whisper Large v2 model. The notebook processes audio files, converts them into text, and provides transcriptions with time-stamped segments, making it a valuable resource for speech analysis tasks.
