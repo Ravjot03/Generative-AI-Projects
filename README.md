@@ -23,3 +23,4 @@ This repository contains a Jupyter notebook that demonstrates automatic speech r
 
 
 ### 6. [Fashion Recommendation System](https://github.com/Ravjot03/Fashion-Recommendation-System)
+This repository demonstrates the process of building a Fashion Recommendation System using image features. By leveraging computer vision and pre-trained deep learning models, this system analyzes the visual characteristics of fashion items (e.g., color, texture, style) and recommends similar or complementary products.
