@@ -20,3 +20,6 @@ In this project, An AI-powered system is built that intelligently queries and ex
 
 ### 5. [Speech to Text Analysis](https://github.com/Ravjot03/Speech-to-Text-Analysis)
 This repository contains a Jupyter notebook that demonstrates automatic speech recognition (ASR) using OpenAI's Whisper Large v2 model. The notebook processes audio files, converts them into text, and provides transcriptions with time-stamped segments, making it a valuable resource for speech analysis tasks.
+
+
+### 6. [Fashion Recommendation System](https://github.com/Ravjot03/Fashion-Recommendation-System)
