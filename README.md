@@ -25,4 +25,4 @@ This repository contains a Jupyter notebook that demonstrates automatic speech r
 ### 6. [Fashion Recommendation System](https://github.com/Ravjot03/Fashion-Recommendation-System)
 This project demonstrates the process of building a Fashion Recommendation System using image features. By leveraging computer vision and pre-trained deep learning models, the system analyzes the visual characteristics of fashion items (e.g., color, texture, style) and recommends similar or complementary products.
 
-### 7. Transformer Based Text Translation()
+### 7. [Transformer Based Text Translation]()
