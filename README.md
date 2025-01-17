@@ -26,3 +26,4 @@ This repository contains a Jupyter notebook that demonstrates automatic speech r
 This project demonstrates the process of building a Fashion Recommendation System using image features. By leveraging computer vision and pre-trained deep learning models, the system analyzes the visual characteristics of fashion items (e.g., color, texture, style) and recommends similar or complementary products.
 
 ### 7. [Transformer Based Text Translation](https://github.com/Ravjot03/Transformer-Based-Text-Translation)
+This project implements a Sequence-to-Sequence (Seq2Seq) Transformer model for language translation using PyTorch and TorchText. The model is trained on the Multi30k dataset, which contains parallel English-German sentence pairs. Key components include tokenization, vocabulary creation, positional encoding, and the Transformer architecture.
