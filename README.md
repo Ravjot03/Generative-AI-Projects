@@ -29,3 +29,4 @@ This project demonstrates the process of building a Fashion Recommendation Syste
 This project implements a Sequence-to-Sequence (Seq2Seq) Transformer model for language translation using PyTorch and TorchText. The model is trained on the Multi30k dataset, which contains parallel English-German sentence pairs. Key components include tokenization, vocabulary creation, positional encoding, and the Transformer architecture.
 
 ### 8. [PDF Chatbot System](https://github.com/Ravjot03/PDF-Chatbot-System)
+This project demonstrates a chatbot system that interacts with PDF files in a conversational manner. The chatbot extracts the text from a PDF document and allows users to query the content through a conversational interface. It uses LangChain and OpenAI models to provide responses based on the information in the PDF.
